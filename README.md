@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=210&section=header&text=Ansul-Riyal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Linux%20%7C%20Open%20Source&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=210&section=header&text=Ansul%20Riyal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Linux%20%7C%20Open%20Source&descAlignY=60&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+with+Go%2C+Java+%26+C;Linux+%26+Open+Source;Backend+%26+Systems" />
 
